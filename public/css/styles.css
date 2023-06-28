@@ -11,10 +11,15 @@
     font-size: 12px;
     letter-spacing: 5px;
 }
+.nav li{
+    color: black;
+}
 .navbar-nav  li a:hover {
     color:black !important;
 }
-
+h1{
+    font-weight: bold;
+}
 .footer-padding {
 	padding-bottom: 60px;
 }
